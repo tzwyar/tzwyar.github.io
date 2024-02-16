@@ -4,13 +4,18 @@
 Certified project manager with more than 9 years of experience managing and leading successful multi-disciplinary projects and company-wide initiatives within highly matrixed organizations in the fields of pharmaceuticals, FMCG, construction, technology, manufacturing, and process improvement. Passionate about leveraging technology to improve business effectiveness and performance management. Seasoned manager that enjoys building strong relationships and ensuring success for both the business and teams.
 
 ## Employment History
+-------
 **Associate Director, Project Management & Claims, HKA Global, Remote, Switzerland**
 November 2021 — Present
 * Managing multiple consulting projects within the Project Management and Claims professional service lines generating over $5 million in revenue across various industries in North America.
 * Spearheading projects that streamline crucial processes within the supply chain of multinational corporations (MNC) in the FMCG and pharmaceutical space, leading to improvements in process efficiency, in areas such as costing, marketing services, and product mapping.
 * Conducting organizational audits focused on end-to-end project
 delivery, enabling clients in industries such as pharmaceuticals, FMCG, manufacturing, transportation, and higher education to identify and implement improvements, resulting in $27 million in combined cost savings.
-
+**Manager, Project Management & Claims, HKA Global, Remote, Switzerland**
+July 2019 — November 2021
+- Evaluated projects and programs using data analysis and qualitative assessments, resolving 95% of clients' disputes and recovering $120 million in claims across diverse sectors.
+- Utilized advanced data analytics, complemented by workshops and interviews, to assess and optimize clients’ project delivery and organizational performance, aligning with business objectives.
+- Identifiedandproposedstrategicsolutions,includingprocessoptimizations and SOP enhancements, unlocking $43 million in potential savings and bolstering operational efficiency.
 
 
 
