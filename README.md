@@ -1,11 +1,9 @@
-An h1 header
-============
-Profile
+# Resume
+## Profile
 -------
 Certified project manager with more than 9 years of experience managing and leading successful multi-disciplinary projects and company-wide initiatives within highly matrixed organizations in the fields of pharmaceuticals, FMCG, construction, technology, manufacturing, and process improvement. Passionate about leveraging technology to improve business effectiveness and performance management. Seasoned manager that enjoys building strong relationships and ensuring success for both the business and teams.
 
-Employment History
-----
+## Employment History
 **Associate Director, Project Management & Claims, HKA Global, Remote, Switzerland**
 November 2021 — Present
 * Managing multiple consulting projects within the Project Management and Claims professional service lines generating over $5 million in revenue across various industries in North America.
